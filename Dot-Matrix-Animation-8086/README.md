@@ -92,11 +92,9 @@ END
 ---
 
 ## 📷 Circuit Diagram
-Add your Proteus circuit screenshot here.
 
-```md
 ![Circuit Diagram](circuit.png)
-```
+
 
 ---
 
