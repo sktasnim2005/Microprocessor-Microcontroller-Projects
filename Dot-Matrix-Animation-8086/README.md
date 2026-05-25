@@ -93,7 +93,7 @@ END
 
 ## 📷 Circuit Diagram
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](docs/circuit.png)
 
 
 ---
